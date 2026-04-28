@@ -14,6 +14,8 @@ public class Test {
 		s1.name = "Shyam";
 		s1.city = "Delhi";
 		
+		System.out.println(s);
+		
 		System.out.println(s1.id);
 		System.out.println(s1.name);
 		System.out.println(s1.city);
